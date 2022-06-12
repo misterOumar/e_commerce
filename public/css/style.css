@@ -1,5 +1,18 @@
-img {
-  width: 100%;
-  height: 600px;
-  object-fit: fill;
+/*img {*/
+/*  width: 100%;*/
+/*  height: 600px;*/
+/*  object-fit: fill;*/
+/*}*/
+#mami{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 10%;
+}
+#mission{
+    margin-top: 15%;
+    text-align: center;
+}
+.nom{
+    height: 600px;
 }
